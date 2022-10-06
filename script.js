@@ -1,5 +1,5 @@
 
-const API_URL = 'https://api.themoviedb.org/3/discover/movie?primary_release_date.gte=2018-01-01&primary_release_date.lte=2022-12-31&api_key=d7478f91f1dc9ba9e9250ef59deb55eb&page=1'
+const API_URL = 'https://api.themoviedb.org/3/discover/movie?primary_release_date.gte=2018-01-01&primary_release_date.lte=2021-12-31&api_key=d7478f91f1dc9ba9e9250ef59deb55eb&page=1'
 
 const IMG_PATH = 'https://image.tmdb.org/t/p/w1280'
 
