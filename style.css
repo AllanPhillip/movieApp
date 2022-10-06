@@ -5,8 +5,6 @@
     --secondary-color:#373B69; 
 }
 
-
-
 *{
     box-sizing: border-box;
 }
@@ -109,4 +107,16 @@ main {
 
 .movie:hover .overview {
     transform: translateY(0);
+}
+
+@media(max-width: 1300px) {
+    .movie {
+    width: 300px;    
+    }
+}
+
+@media(max-width: 800px) {
+    .movie {
+    width: 400px;    
+    }
 }
