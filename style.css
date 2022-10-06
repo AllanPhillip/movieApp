@@ -109,14 +109,22 @@ main {
     transform: translateY(0);
 }
 
-@media(max-width: 1400px) {
+@media(max-width: 1700px) {
     .movie {
-    width: 310px;    
+        width: 305px;    
+
+    }
+}
+
+@media(max-width: 1440px) {
+    .movie {
+        width: 290px;    
+
     }
 }
 
 @media(max-width: 800px) {
     .movie {
-    width: 450px;    
+        width: 450px;    
     }
 }
