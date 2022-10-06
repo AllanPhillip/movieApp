@@ -109,14 +109,14 @@ main {
     transform: translateY(0);
 }
 
-@media(max-width: 1300px) {
+@media(max-width: 1400px) {
     .movie {
-    width: 300px;    
+    width: 310px;    
     }
 }
 
 @media(max-width: 800px) {
     .movie {
-    width: 400px;    
+    width: 450px;    
     }
 }
