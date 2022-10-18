@@ -82,7 +82,7 @@ main {
 }
 
 .movie-info span.green {
-    color: lightgreen;
+    color: lightgreen; 
 }
 
 .movie-info span.orange {
@@ -118,8 +118,8 @@ main {
 
 @media(max-width: 1440px) {
     .movie {
-        width: 295px;    
-
+        width: 295px;
+        margin-left: 10px;
     }
 }
 
